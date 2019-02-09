@@ -6,9 +6,14 @@ using System.Threading.Tasks;
 
 namespace BottlesOfBeer
 {
-    class Program
+    class BeerSong
     {
-        static void Main(string[] args)
+        public void Main()
+        {
+
+        }
+
+        private void Nintey_Nine_Bottles_of_Beer()
         {
 
         }
