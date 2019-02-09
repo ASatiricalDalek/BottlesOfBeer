@@ -10,7 +10,9 @@ namespace BottlesOfBeer
     {
         static void Main(string[] args)
         {
+            BeerSong beer = new BeerSong();
 
+            beer.Main();
         }
     }
 }
