@@ -31,7 +31,7 @@ namespace BottlesOfBeer
                     Console.WriteLine("Take one down, pass it around, no more bottles of beer on the wall");
                 }
             }
-          
+            Console.ReadLine(); 
         }
     }
 }
